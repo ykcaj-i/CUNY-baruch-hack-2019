@@ -1,3 +1,8 @@
+plan-it eco
+
+a web based program that enables users to create live events to spread environmental awareness
+
+
 # cuny-hackathon
 
 - First do 'npm install' to install dependencies.
@@ -6,4 +11,3 @@
 Navigate to cunyhack/ and run 'npm start' in a terminal
 
 
-a web based program that enables users to create live events to spread environmental awareness
